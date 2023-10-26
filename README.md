@@ -10,4 +10,4 @@ A new Flutter project.
 
 **Mobile mode**
 
-<img src="images/3.jpeg">
+<img src="images/3.jpeg" width="350">
